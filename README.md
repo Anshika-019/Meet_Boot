@@ -26,7 +26,7 @@ Contributions are always welcome!
 
 ### Steps to run ChromeExtension locally
 
-- Clone this repository git clone https://github.com/Jake1924/Meet-Bot.git
+- Clone this repository git clone https://github.com/Anshika-019/Meet_Boot
 - Load your extension on Chrome:
 - Go to chrome://extensions/
 - Turn on Developer mode
